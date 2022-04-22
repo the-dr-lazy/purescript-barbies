@@ -12,18 +12,13 @@ to generate this file without the comments in this block.
 -}
 { name = "barbies"
 , dependencies =
-  [ "aff"
+  [ "prelude"
+  , "console"
+  , "control"
+  , "const"
   , "effect"
-  , "either"
-  , "exceptions"
-  , "maybe"
-  , "nullable"
-  , "partial"
-  , "prelude"
   , "psci-support"
   , "transformers"
-  , "typelevel-prelude"
-  , "unsafe-coerce"
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
