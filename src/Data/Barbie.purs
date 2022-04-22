@@ -1,7 +1,7 @@
 {-|
-Module     : Data.Functor.Barbie
+Module     : Data.Barbie
 Maintainer : Mohammad Hasani (the-dr-lazy.github.io) <the-dr-lazy@pm.me>
-Copyright  : (c) 2020-2022 Purescript QuickCheck State Machine
+Copyright  : (c) 2021-2022 Effecful
 License    : MPL 2.0
 
 This Source Code Form is subject to the terms of the Mozilla Public
